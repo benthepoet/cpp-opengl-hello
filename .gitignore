@@ -1,0 +1,23 @@
+# CMake
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+*.cbp  # Code::Blocks project files
+
+# Build directories (common patterns)
+build/
+Debug/
+Release/
+x64/
+out/
+
+# CLion/JetBrains
+cmake-build-*/
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# VCPKG
+vcpkg_installed/

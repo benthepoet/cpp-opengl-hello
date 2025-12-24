@@ -1,0 +1,8 @@
+{
+    "name": "cpp-hello",
+    "version-string": "1.0.0",
+    "dependencies": [
+        "glbinding",
+        "glfw3"
+    ]
+}
